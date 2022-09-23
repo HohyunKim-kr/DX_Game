@@ -1,0 +1,7 @@
+﻿  Entry.cpp
+C:\Users\user\Desktop\DX_Game\Engine\Entry.cpp(48,36): error C2440: '=': 'const char [7]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\user\Desktop\DX_Game\Engine\Entry.cpp(48,28): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\user\Desktop\DX_Game\Engine\Entry.cpp(60,32): error C2440: '=': 'const char [7]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\user\Desktop\DX_Game\Engine\Entry.cpp(60,24): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\user\Desktop\DX_Game\Engine\Entry.cpp(61,30): error C2440: '=': 'const char [5]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\user\Desktop\DX_Game\Engine\Entry.cpp(61,24): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
